@@ -21,16 +21,16 @@ Hi I'm Lyndon, I come from a medical background and have always been interested 
 
 ## Contact Me
 <p align="center">
-  <a href="mailto:domcashiola@gmail.com">
+  <a href="mailto:tzlyndon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-  <a href="[https://shaunjhingoor.github.io/Portfolio/](https://portfolio-rho-beige-98.vercel.app/)" target="_blank">
+  <a href="[https://lthomasz.github.io/](https://portfolio-rho-beige-98.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"   
    alt="Portfolio"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/dominic-c-1076322a8/">
+  <a href="www.linkedin.com/in/lyndon-thomasz-3a091126a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
