@@ -30,7 +30,7 @@ Hi I'm Lyndon, I come from a medical background and have always been interested 
    alt="Portfolio"/>
   </a>
 
-  <a href="[www.linkedin.com/in/lyndon-thomasz-3a091126a](https://www.linkedin.com/in/lyndon-thomasz-3a091126a/)">
+  <a href="https://www.linkedin.com/in/lyndon-thomasz-3a091126a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
