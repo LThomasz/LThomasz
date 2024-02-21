@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Some stuff about Me
 Hi I'm Lyndon, I come from a medical background and have always been interested in tech. As a kid I loved taking apart the appliances at home(to my mom's great dissatisfaction), and putting them back together. I like learning how things are built and how they work. Recently I've been training at App Academy for the past 6 months with a focus on full stack web development. The best part is there is never a lack of things to learn and practice. I'm open to learning new technologies and hope I can learn and collaborate with you sometime!
