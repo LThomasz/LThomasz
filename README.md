@@ -19,7 +19,22 @@ Hi I'm Lyndon, I come from a medical background and have always been interested 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
+## Contact Me
+<p align="center">
+  <a href="mailto:domcashiola@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="[https://shaunjhingoor.github.io/Portfolio/](https://portfolio-rho-beige-98.vercel.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"   
+   alt="Portfolio"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/dominic-c-1076322a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 <!--
 **LThomasz/LThomasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
